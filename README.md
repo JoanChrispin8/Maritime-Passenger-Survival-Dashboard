@@ -1,11 +1,15 @@
-🚢 Titanic Survival Dashboard:
+![image](https://github.com/user-attachments/assets/c3ad0278-d020-41c1-85b5-8d22266aecec)🚢 Titanic Survival Dashboard:
 
 This project analyzes survival patterns aboard the Titanic using Power BI.
 It explores how class, age, gender, fare, and cabin location influenced survival outcomes.
 The dashboard turns historical data into visual insights to highlight key survival patterns and systemic issues in evacuation.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 🖼️ Dashboard Preview:
 [Insert Screenshot_1: Full Dashboard Overview]
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Dashboard Features:
 
@@ -21,11 +25,15 @@ The dashboard turns historical data into visual insights to highlight key surviv
 
 -> Interactive Slicers & KPIs
 
-Tools Used:
+------------------------------------------------------------------------------------------------------------------------------------------
+
+🔧Tools Used:
 
 -> Power BI
 
 -> DAX formulas, calculated columns, data modeling
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Why This Project Matters:
 
@@ -39,6 +47,8 @@ Key Benefits:
 -> Detect issues in cabin overcrowding
 
 -> Challenge assumptions about class and gender roles in emergencies
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 🔍 Key Findings (Sample Visuals):
 
@@ -57,6 +67,8 @@ Key Benefits:
 
 -> Upper class survival was not guaranteed, showing evacuation was not well-managed even for premium passengers
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 🛠 How to Use the Report:
 
 -> Download Dataset:
@@ -68,6 +80,8 @@ Key Benefits:
 -> Explore Key Metrics:
 [Filter by class, age, cabin, gender, fare, and see survival outcomes]
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 📎 Tags
-#PowerBI #TitanicData #DataVisualization #SurvivalAnalysis #DAX #BI #HistoricalData #DashboardDesign
+#PowerBI #TitanicData #DataVisualization #SurvivalAnalysis #DAX #BI #HistoricalData #DashboardDesign#JoanChrispin
 

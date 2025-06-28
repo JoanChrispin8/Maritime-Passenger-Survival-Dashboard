@@ -4,7 +4,7 @@ This Power BI project analyzes survival patterns aboard a simulated maritime voy
 
 Drive link:https://drive.google.com/file/d/1WDDca5EQ8lMlUrU3CJCTUDydT9qC2VoN/view?usp=sharing
 
-![Image](https://github.com/user-attachments/assets/5a8c4146-4298-4a7f-bd09-a56d9f4a5db8)
+![Image](https://github.com/user-attachments/assets/c9748e9a-ca38-409a-8467-7e894d748f91)
 
 📊 Dashboard Overview:
 

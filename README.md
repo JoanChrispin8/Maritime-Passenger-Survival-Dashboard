@@ -1,6 +1,7 @@
 🚢 Maritime Passenger Survival Dashboard:
 
 This Power BI project analyzes survival patterns aboard a simulated maritime voyage, inspired by the Titanic. It explores how factors like class, age, gender, fare, and cabin location influenced survival outcomes. Using interactive visuals and data modeling, the dashboard highlights key insights with real-world relevance for emergency preparedness.
+
 Drive link:https://drive.google.com/file/d/1WDDca5EQ8lMlUrU3CJCTUDydT9qC2VoN/view?usp=sharing
 
 ![Image](https://github.com/user-attachments/assets/5a8c4146-4298-4a7f-bd09-a56d9f4a5db8)

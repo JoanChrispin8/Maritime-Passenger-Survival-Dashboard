@@ -83,7 +83,7 @@ Upper-Class Safety Protocols:
 📬 Contact:
 
 Feel free to connect or collaborate with me on LinkedIn:
-🔗 Joan Chrispin on LinkedIn
+🔗 Joan Chrispin on [LinkedIn](https://www.linkedin.com/in/joan-chrispin/)
 
 🔖 Tags:
 #PowerBI #DataAnalytics #SurvivalAnalysis #TitanicData #MaritimeSafety #DashboardDesign #DAX #DataVisualization

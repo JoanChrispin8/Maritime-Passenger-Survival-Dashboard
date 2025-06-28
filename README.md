@@ -1,87 +1,90 @@
-![image](https://github.com/user-attachments/assets/c3ad0278-d020-41c1-85b5-8d22266aecec)🚢 Titanic Survival Dashboard:
+🚢 Maritime Passenger Survival Dashboard:
 
-This project analyzes survival patterns aboard the Titanic using Power BI.
-It explores how class, age, gender, fare, and cabin location influenced survival outcomes.
-The dashboard turns historical data into visual insights to highlight key survival patterns and systemic issues in evacuation.
+This Power BI project analyzes survival patterns aboard a simulated maritime voyage, inspired by the Titanic. It explores how factors like class, age, gender, fare, and cabin location influenced survival outcomes. Using interactive visuals and data modeling, the dashboard highlights key insights with real-world relevance for emergency preparedness.
+Drive link:https://drive.google.com/file/d/1WDDca5EQ8lMlUrU3CJCTUDydT9qC2VoN/view?usp=sharing
+![Image](https://github.com/user-attachments/assets/5a8c4146-4298-4a7f-bd09-a56d9f4a5db8)
 
-------------------------------------------------------------------------------------------------------------------------------------------
+📊 Dashboard Overview:
 
-🖼️ Dashboard Preview:
-[Insert Screenshot_1: Full Dashboard Overview]
+-> This dashboard presents detailed visualizations on:
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-> Passenger class distribution and survival outcomes
 
-📊 Dashboard Features:
+-> Age group trends: children, teens, adults, elderly
 
--> Passenger Class & Survival Rates
+-> Gender-based survival patterns
 
--> Age Group Trends: Children, Teens, Adults, Elderly
+-> Impact of cabin assignment and overcrowding
 
--> Gender-based Survival
+-> Fare vs. likelihood of survival
 
--> Cabin Crowding (G6, E46, C85, Unspecified)
+-> Tool Used: Power BI
+-> Techniques: DAX, custom measures, data transformation
 
--> Fare vs. Survival Likelihood
+🎯 Why This Matters:
 
--> Interactive Slicers & KPIs
+The dashboard uncovers structural and demographic factors that influenced survival. These insights can guide improvements in:
 
-------------------------------------------------------------------------------------------------------------------------------------------
+🚨 Emergency strategies
 
-🔧Tools Used:
+⚖️ Class and gender equity
 
--> Power BI
+🧓 Demographic risk profiling
 
--> DAX formulas, calculated columns, data modeling
+🛏️ Cabin safety planning
 
-------------------------------------------------------------------------------------------------------------------------------------------
+🔎 Key Findings:
 
-🎯 Why This Project Matters:
+-> Teens showed the highest survival rates across all classes.
 
-This dashboard visualizes how demographic and structural factors influenced Titanic survival outcomes.
-The findings can support improved planning in transportation and emergency response today.
+-> Unspecified cabins were common and linked to poor evacuation outcomes.
 
-Key Benefits:
+-> Overcrowded cabins like G6, C85, and E46 reduced survival chances.
 
--> Spot vulnerable groups (elderly, children)
+-> Elderly passengers consistently had the lowest survival rates.
 
--> Detect issues in cabin overcrowding
+-> Fare price had no clear impact on survival, showing systemic flaws in cabin allocation and emergency planning.
 
--> Challenge assumptions about class and gender roles in emergencies
+📌 Recommendations:
 
-------------------------------------------------------------------------------------------------------------------------------------------
+Smart Cabin Allocation:
+-> Avoid overcrowding by assigning cabins based on age, mobility, and group size.
 
-🔍 Key Findings (Sample Visuals):
+Special Safety Zones:
+-> Create designated zones for children, elderly, and teens near exits with staff support.
 
-[Insert Screenshot_2: Survival by Class + Gender]
-[Insert Screenshot_3: Age Group Trends Across Classes]
-[Insert Screenshot_4: Cabin Crowding and Survival Rates]
-[Insert Screenshot_5: Fare Amount vs. Survival]
+Technology for Safety:
+-> Use smart wristbands for evacuation guidance and real-time passenger tracking.
 
--> Teens consistently had highest survival rates
+Targeted Safety Training:
+-> Implement age-appropriate drills and gender-sensitive communication strategies.
 
--> Unspecified cabins and overcrowding were common in all classes
+Upper-Class Safety Protocols:
+-> Assign trained staff and mark exclusive evacuation routes in premium cabins.
 
--> Fare paid did not strongly influence survival outcomes
+🧰 Getting Started:
 
--> Elderly passengers were at the highest risk
+-> Download a Titanic-style dataset (e.g., from Kaggle).
 
--> Upper class survival was not guaranteed, showing evacuation was not well-managed even for premium passengers
+-> Load it into Power BI and clean the data.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-> Apply custom DAX formulas and filters.
 
-🛠 How to Use the Report:
+-> Build visuals and explore metrics:
 
--> Download Dataset:
-[Titanic dataset from Kaggle]
+-> Survival by class and gender
 
--> Open in Power BI Desktop:
-[Load and clean data, apply DAX measures, build visuals]
+-> Age group trends
 
--> Explore Key Metrics:
-[Filter by class, age, cabin, gender, fare, and see survival outcomes]
+-> Cabin occupancy effects
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-> Fare analysis and crowding
 
-📎 Tags
-#PowerBI #TitanicData #DataVisualization #SurvivalAnalysis #DAX #BI #HistoricalData #DashboardDesign#JoanChrispin
+📬 Contact:
+
+Feel free to connect or collaborate with me on LinkedIn:
+🔗 Joan Chrispin on LinkedIn
+
+🔖 Tags:
+#PowerBI #DataAnalytics #SurvivalAnalysis #TitanicData #MaritimeSafety #DashboardDesign #DAX #DataVisualization
 
